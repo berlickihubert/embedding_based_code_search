@@ -1,0 +1,4 @@
+.venv/
+!fine-tuned_models/*
+fine-tuned_models/*.pth
+__pycache__/

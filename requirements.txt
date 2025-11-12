@@ -1,0 +1,7 @@
+datasets
+sentence-transformers
+pandas
+numpy
+torch
+usearch
+transformers==4.51.3
