@@ -39,3 +39,8 @@ If you want to use CUDA, run the following commands:
 ```
 
 You can find the demo in `demo.ipynb`.
+
+## Insights
+
+### Fine-tuning:
+- contrastive loss must be used
